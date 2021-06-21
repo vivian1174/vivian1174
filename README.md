@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @vivian1174
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-vivian1174/vivian1174 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 #自我介紹
 
 >本人○○○出生於民國○○年，現居於台灣○○市○○區○○路○○○號○樓。
